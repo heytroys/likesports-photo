@@ -126,7 +126,7 @@ body {
     top: 0;
     }
     
-    #header .navbar .navbar-nav li .dropdown-menu li a {
+    #header .navbar .navbar-nav li .dropdown-menu .dropdown-item {
     font-size: 0.9rem;
     }
     
