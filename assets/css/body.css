@@ -118,6 +118,13 @@ body {
     position: sticky;
     top: 0;
     }
+
+    #hdr_header_sub {
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Kalam', cursive;
+    position: sticky;
+    top: 0;
+    }
     
     #header .navbar .navbar-nav li .dropdown-menu li a {
     font-size: 1rem;
