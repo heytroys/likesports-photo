@@ -34,7 +34,7 @@
             figureskate
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item fs-4 text-decoration-none" href="events/zenja-figskate92.html">第92回全日本フィギアスケート</a></li>
+            <li><a class="dropdown-item fs-4 text-decoration-none" href="events/zenja-figskate92.html">第92回<br>全日本フィギアスケート</a></li>
           </ul>
         </li>
         <li class="nav-item">
