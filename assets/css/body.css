@@ -112,6 +112,17 @@ body {
 
 
 @media screen and (max-width: 900px) {
+    #hdr_header {
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Kalam', cursive;
+    position: sticky;
+    top: 0;
+    }
+    
+    #header .navbar .navbar-nav li .dropdown-menu li a {
+    font-size: 1rem;
+    }
+    
     .image-change .all-samne li:first-child .samne-img {
         box-shadow: 2px 2px 7px #ffd700;
     }
