@@ -45,10 +45,21 @@ body {
     max-width: 90%;
 }
 
+.image-change .all-samne li {
+    width: 50%;
+    border-radius: 50px;
+    transition: 0.5s all;
+    backgroud: url('../images/click.png');
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position: center;
+}
+
 .image-change .all-samne li .samne-img {
     width: 50%;
     border-radius: 50px;
     transition: 0.5s all;
+    opacity: 0.4;
 }
 
 .image-change .all-samne li p {
@@ -73,13 +84,13 @@ body {
 }
 
 .image-change .all-samne li .samne-img:hover {
-    opacity: 0.9;
+    opacity: 0.7;
 }
 
 .image-change .all-samne li .samne-img.active {
-    opacity: 0.5;
     box-shadow: none;
     border-radius: 0;
+    opacity: 1;
 }
 
 .image-change .all-samne {
@@ -111,23 +122,27 @@ body {
 }
 
 
-@media screen and (max-width: 900px) {
-    #hdr_header {
-    font-family: 'Edu TAS Beginner', cursive;
-    font-family: 'Kalam', cursive;
-    position: sticky;
-    top: 0;
-    }
+@media screen and (max-width: 960px) {
 
-    #hdr_header_sub {
-    font-family: 'Edu TAS Beginner', cursive;
-    font-family: 'Kalam', cursive;
-    position: sticky;
-    top: 0;
+    .image-change .all-samne li {
+        background-size: 65px;
     }
-    
-    #header .navbar .navbar-nav li .dropdown-menu .dropdown-item {
-    font-size: 0.9rem;
+  
+}
+
+@media screen and (max-width: 760px) {
+
+    .image-change .all-samne li {
+        background-size: 55px;
+    }
+  
+}
+
+
+@media screen and (max-width: 600px) {
+
+    .image-change .all-samne li {
+        background-size: 45px;
     }
     
     .image-change .all-samne li:first-child .samne-img {
