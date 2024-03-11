@@ -62,15 +62,6 @@ body {
     opacity: 0.4;
 }
 
-.image-change .all-samne li p {
-    opacity: 1;
-    transition: 0.5s all;
-}
-
-.image-change .all-samne li .samne-img.active ~ p {
-   opacity: 0;
-}
-
 .image-change .all-samne li:first-child .samne-img {
     box-shadow: 4px 4px 7px #ffd700;
 }
