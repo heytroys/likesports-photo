@@ -6,7 +6,7 @@
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg bg-body-tertiary p-3">
   <div class="container-fluid">
-    <h1><a href="index.html" class="fs-1 text-dark text-decoration-none"><i class="bi bi-camera me-2"></i>Like Sports</a></h1>
+    <h1><a href="index.html" class="fs-1 text-dark text-decoration-none">Sports Photo</a></h1>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span><i class="bi bi-list"></i></span>
     </button>
