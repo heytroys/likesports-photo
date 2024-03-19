@@ -2,49 +2,43 @@
 {
     const $hdr_header = document.getElementById('hdr_header');
     $hdr_header.insertAdjacentHTML('afterbegin' , `
-    <div id="header" class="mb-3">
-    <!-- navbar -->
-    <nav class="navbar navbar-expand-lg bg-body-tertiary p-3">
-  <div class="container-fluid">
-    <h1><a href="index.html" class="fs-1 text-dark text-decoration-none">Sports Photo</a></h1>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span><i class="bi bi-list"></i></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0 ps-4 list-unstyled">
-      <li class="nav-item dropdown">
-      <a class="nav-link dropdown-toggle fs-3 text-dark text-decoration-none ps-1" to="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-        baseball
-      </a>
-      <ul class="dropdown-menu">
-        <li><a class="dropdown-item fs-4 text-decoration-none" href="events/baseball-tiger24-1-op.html">阪神タイガース1軍'24<br>オープン戦</a></li>
-        <li><a class="dropdown-item fs-4 text-decoration-none" href="events/th-other-baseball24-1-op.html">阪神以外1軍'24<br>オープン戦</a></li>
-      </ul>
-    </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle fs-3 text-dark text-decoration-none ps-1" to="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            volleyball
-          </a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item fs-4 text-decoration-none" href="events/jtmave23.html">JTマーヴェラス・'23~'24</a></li>
+    <header id="header" class="p-3 mb-4">
+    <div class="header-container d-flex justify-content-between align-items-center">
+      <div class="page-title">
+      <h1><a class="fs-1 text-dark text-decoration-none p-3" href="index.html">Sports Photo</a></h1>
+    </div>
+    <nav>
+    <ul id="nav" class="sports-list d-flex list-unstyled pt-2">
+      <li class="pe-3"><a href="#" class="sub-text fs-3 text-dark text-decoration-none">baseball</a>
+      <ul class="list-unstyled">
+        <li class="my-4"><a class="fs-5 text-dark text-decoration-none" href="events/baseball-tiger24-1-op.html">阪神タイガース
+          <br>1軍オープン戦2024</a></li>
+        <li class="my-4"><a class="fs-5 text-dark text-decoration-none" href="events/th-other-baseball24-1-op.html">阪神以外
+          <br>1軍オープン戦2024</a></li>
+        </ul>
+      </li>
+      <li class="pe-3"><a href="#" class="sub-text fs-3 text-dark text-decoration-none">volleyball</a>
+        <ul class="list-unstyled">
+          <li class="my-4"><a class="sub-text fs-5 text-dark text-decoration-none" href="events/jtmave23.html">JTマーヴェラス
+            <br>2023~2024</a></li>
           </ul>
         </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle fs-3 text-dark text-decoration-none ps-1" to="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            figureskate
-          </a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item fs-4 text-decoration-none" href="events/zenja-figskate92.html">第92回<br>全日本フィギアスケート</a></li>
-          </ul>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link fs-3 text-dark text-decoration-none ps-1" href="events/prof.html">profile</a>
-        </li>
-      </ul>
+        <li class="pe-3"><a href="#" class="sub-text fs-3 text-dark text-decoration-none">fhigireskate</a>
+          <ul class="list-unstyled">
+            <li class="my-4"><a class="sub-text fs-5 text-dark text-decoration-none" href="events/zenja-figskate23.html">2023全日本
+              <br>フィギアスケート選手権</a></li>
+            </ul>
+          </li>
+      <li class="pe-2"><a href="events/prof.html" class="fs-3 text-dark text-decoration-none">profile</a></li>
+    </ul>
+  </nav>
+    <div class="burger p-4">
+      <div class="line1 fw-normal mb-2"></div>
+      <div class="line2 fw-normal mb-2"></div>
+      <div class="line3 fw-normal mb-2"></div>
     </div>
   </div>
-</nav>
-</div>`);
+  </header>`);
 }
 
 {
@@ -55,3 +49,4 @@
           <p>&copy;Shotaro Sports</p>
         </footer>`);
 }
+
