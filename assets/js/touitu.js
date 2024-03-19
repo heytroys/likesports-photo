@@ -23,7 +23,7 @@
             <br>2023~2024</a></li>
           </ul>
         </li>
-        <li class="pe-3"><a href="#" class="sub-text fs-3 text-dark text-decoration-none">fhigireskate</a>
+        <li class="pe-3"><a href="#" class="sub-text fs-3 text-dark text-decoration-none">figureskate</a>
           <ul class="list-unstyled">
             <li class="my-4"><a class="sub-text fs-5 text-dark text-decoration-none" href="events/zenja-figskate23.html">2023全日本
               <br>フィギアスケート選手権</a></li>
