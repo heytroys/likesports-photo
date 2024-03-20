@@ -9,7 +9,6 @@ html {
 
 body {
     font-size: 0.8rem;
-    overflow-x: hidden;
 }
 
 
@@ -168,6 +167,8 @@ body {
     }
 
     .sports-list {
+        white-space: nowrap;
+        overflow-x: hidden;
         position: absolute;
         right: 0;
         top: 9.5vh;
