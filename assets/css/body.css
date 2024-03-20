@@ -173,6 +173,7 @@ body {
 
     .sports-list {
         position: relative;
+        white-space: nowrap;
         right: -200px;
         top: 150px;
         width: 100%;
