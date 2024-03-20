@@ -150,6 +150,8 @@ body {
 
 .sports-list-active {
     transform: translate(0%) !important;
+    opacity: 1;
+    overflow-x: hidden;
 }
 
 
@@ -179,6 +181,7 @@ body {
         padding: 10px;
         overflow-x: hidden;
         transform: translateX(100%);
+        opacity: 0;
     }
 
     .sports-list li {
