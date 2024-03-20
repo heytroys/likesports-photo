@@ -161,6 +161,7 @@ body {
 @media screen and (max-width: 768px) {
     #nav {
         position: relative;
+        overflow-x: hidden;
     }
 
     .page-title {
