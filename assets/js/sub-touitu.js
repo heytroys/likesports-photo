@@ -8,8 +8,8 @@
       <h1><a class="fs-1 text-dark text-decoration-none p-3" href="../index.html">Sports Photo</a></h1>
     </div>
     <nav>
-    <ul id="nav" class="sports-list d-flex list-unstyled pt-2">
-      <li class="pe-3"><a href="#" class="sub-text fs-3 text-dark text-decoration-none">baseball</a>
+    <ul id="nav" class="sports-list overflow-x-hidden d-flex list-unstyled pt-2">
+      <li class="pe-3"><a href="#" class="sub-text fs-4 text-dark text-decoration-none">baseball</a>
       <ul class="list-unstyled">
         <li class="my-4"><a class="fs-6 text-dark text-decoration-none" href="baseball-tiger24-1-op.html">阪神タイガース
           <br>1軍オープン戦<br>
@@ -19,20 +19,20 @@
           2024</a></li>
         </ul>
       </li>
-      <li class="pe-3"><a href="#" class="sub-text fs-3 text-dark text-decoration-none">volleyball</a>
+      <li class="pe-3"><a href="#" class="sub-text fs-4 text-dark text-decoration-none">volleyball</a>
         <ul class="list-unstyled">
           <li class="my-4"><a class="sub-text fs-6 text-dark text-decoration-none" href="jtmave23.html">JTマーヴェラス
             <br>2023~24</a></li>
           </ul>
         </li>
-        <li class="pe-3"><a href="#" class="sub-text fs-3 text-dark text-decoration-none">figureskate</a>
+        <li class="pe-3"><a href="#" class="sub-text fs-4 text-dark text-decoration-none">figureskate</a>
           <ul class="list-unstyled">
             <li class="my-4"><a class="sub-text fs-6 text-dark text-decoration-none" href="zenja-figskate23.html">2023全日本
               <br>フィギアスケート<br>
               選手権</a></li>
             </ul>
           </li>
-      <li class="pe-2"><a href="prof.html" class="fs-3 text-dark text-decoration-none">profile</a></li>
+      <li class="pe-2"><a href="prof.html" class="fs-4 text-dark text-decoration-none">profile</a></li>
     </ul>
   </nav>
     <div class="burger p-4">
