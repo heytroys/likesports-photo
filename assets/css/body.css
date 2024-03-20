@@ -149,7 +149,7 @@ body {
 }
 
 .sports-list-active {
-    transform: translate(0%) !important;
+    transform: translate(-10%) !important;
     opacity: 1;
     overflow-x: hidden;
 }
