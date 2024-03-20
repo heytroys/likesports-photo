@@ -158,6 +158,9 @@ body {
 }
 
 @media screen and (max-width: 768px) {
+    body {
+        position: relative;
+    }
     
     .page-title {
         padding-left: 5px;
@@ -168,7 +171,7 @@ body {
         overflow-x: hidden;
         position: absolute;
         right: 0;
-        top: 13vh;
+        top: 12vh;
         width: 50%;
         height: 92vh;
         flex-direction: column;
