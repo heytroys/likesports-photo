@@ -9,6 +9,7 @@ html {
 
 body {
     font-size: 0.8rem;
+    overflow-x: hidden;
 }
 
 
