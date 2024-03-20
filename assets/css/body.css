@@ -169,7 +169,7 @@ body {
     .sports-list {
         white-space: nowrap;
         overflow-x: hidden;
-        position: absolute;
+        position: fixed;
         right: 0;
         top: 9.5vh;
         width: 50%;
