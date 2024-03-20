@@ -167,7 +167,6 @@ body {
     }
 
     .sports-list {
-        white-space: nowrap;
         overflow-x: hidden;
         position: absolute;
         right: 0;
