@@ -128,7 +128,6 @@ body {
 ========================================== */
 
 #header {
-    background: linear-gradient(150deg, rgba(96, 151, 234, 1), rgba(255, 255, 255, 1));
     height: 8vh;
 }
 
@@ -149,7 +148,7 @@ body {
 }
 
 .sports-list-active {
-    transform: translate(-10%) !important;
+    transform: translate(0%) !important;
     opacity: 1;
     overflow-x: hidden;
 }
@@ -181,7 +180,7 @@ body {
         padding: 10px;
         overflow-x: hidden;
         transform: translateX(100%);
-        opacity: 0;
+        opacity: 1;
     }
 
     .sports-list li {
