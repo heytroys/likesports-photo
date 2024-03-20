@@ -158,9 +158,6 @@ body {
 }
 
 @media screen and (max-width: 768px) {
-    body {
-        overflow-x: hidden;
-    }
     
     .page-title {
         padding-left: 5px;
@@ -168,7 +165,7 @@ body {
 
     .sports-list {
         white-space: nowrap;
-        overflow-x: hidden;
+        overflow-x: hidden !important;
         position: fixed;
         right: 0;
         top: 9.5vh;
