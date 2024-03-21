@@ -9,6 +9,7 @@
     </div>
     <nav>
     <ul id="nav" class="sports-list overflow-x-hidden d-flex list-unstyled pt-2">
+    <li class="pe-2"><a href="../index.html" class="fs-4 text-dark text-decoration-none">top</a></li>
       <li class="pe-3"><a href="#" class="sub-text fs-4 text-dark text-decoration-none">baseball</a>
       <ul class="list-unstyled">
         <li class="my-4"><a class="fs-6 text-dark text-decoration-none" href="baseball-tiger24-1-op.html">阪神タイガース
