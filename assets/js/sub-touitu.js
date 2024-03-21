@@ -48,8 +48,8 @@
     const $hdr_footer_sub = document.getElementById('hdr_footer_sub');
     $hdr_footer_sub.insertAdjacentHTML('afterbegin' , `
     <!-- footer -->
-        <footer id="footer" class="text-center text-white bg-secondary pt-2 pb-2">
-          <p>&copy;Shotaro Sports</p>
+        <footer id="footer" class="text-center text-dark pt-2 pb-2">
+          <p>&copy;Take Sports Photo</p>
         </footer>`);
 }
 
