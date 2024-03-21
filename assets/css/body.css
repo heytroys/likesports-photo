@@ -206,6 +206,9 @@ body {
     }
 
     .burger {
+        position: fixed;
+        top: 5px;
+        left: 375px;
         display: block;
         background-color: rgba(0,0,0,0.5);
         border-radius: 15px;
