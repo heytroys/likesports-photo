@@ -180,6 +180,20 @@ body {
 
 @media screen and (max-width: 768px) {
 
+    #hdr_header {
+        position: sticky;
+        top: 0;
+        font-family: 'Edu TAS Beginner', cursive;
+        font-family: 'Kalam', cursive;
+    }
+
+    #hdr_header_sub {
+        position: sticky;
+        top: 0;
+        font-family: 'Edu TAS Beginner', cursive;
+        font-family: 'Kalam', cursive;
+    }
+
     .page-title {
         padding-left: 5px;
     }
@@ -206,12 +220,7 @@ body {
     }
 
     .burger {
-        position: fixed;
-        top: 5px;
-        left: 375px;
         display: block;
-        background-color: rgba(0,0,0,0.5);
-        border-radius: 15px;
     }
 }
 
