@@ -35,7 +35,7 @@
       <li class="pe-2"><a href="events/prof.html" class="fs-3 text-dark text-decoration-none">profile</a></li>
     </ul>
   </nav>
-    <div class="burger p-4">
+    <div class="burger ps-2 pe-2 pt-2 pb-2">
       <div class="line1 fw-normal mb-2"></div>
       <div class="line2 fw-normal mb-2"></div>
       <div class="line3 fw-normal mb-2"></div>
