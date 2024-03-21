@@ -5,7 +5,7 @@
     <header id="header" class="p-3 mb-4">
     <div class="header-container d-flex justify-content-between align-items-center">
       <div class="page-title">
-      <h1><a class="fs-1 text-dark text-decoration-none p-3" href="index.html">Sports Photo</a></h1>
+      <h1><a class="fs-1 text-dark text-decoration-none p-2" href="index.html">Sports Photo</a></h1>
     </div>
     <nav>
     <ul id="nav" class="sports-list d-flex list-unstyled pt-2">
