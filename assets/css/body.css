@@ -155,8 +155,22 @@ body {
 
 @media screen and (max-width: 1024px) {
 
+    #hdr_header {
+        position: sticky;
+        top: 0;
+        font-family: 'Edu TAS Beginner', cursive;
+        font-family: 'Kalam', cursive;
+    }
+
+    #hdr_header_sub {
+        position: sticky;
+        top: 0;
+        font-family: 'Edu TAS Beginner', cursive;
+        font-family: 'Kalam', cursive;
+}
+
     .page-title {
-        padding-left: 40px;
+        padding-left: 10px;
     }
 
     .sports-list {
@@ -193,6 +207,8 @@ body {
 
     .burger {
         display: block;
+        background-color: rgba(0,0,0,0.5);
+        border-radius: 15px;
     }
 }
 
