@@ -156,12 +156,12 @@ body {
 @media screen and (max-width: 1024px) {
 
     #hdr_header {
-        position: fixed;
+        position: sticky;
         top: 0;
     }
 
     #hdr_header_sub {
-        position: fixed;
+        position: sticky;
         top: 0;
     }
 
