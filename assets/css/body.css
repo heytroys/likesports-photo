@@ -17,11 +17,15 @@ body {
 =================================== */
 
 #hdr_header {
+    position: sticky;
+    top: 0;
     font-family: 'Edu TAS Beginner', cursive;
     font-family: 'Kalam', cursive;
 }
 
 #hdr_header_sub {
+    position: sticky;
+    top: 0;
     font-family: 'Edu TAS Beginner', cursive;
     font-family: 'Kalam', cursive;
 }
