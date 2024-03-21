@@ -5,7 +5,7 @@
     <header id="header" class="p-3 mb-4">
     <div class="header-container d-flex justify-content-between align-items-center">
       <div class="page-title">
-      <h1><a class="fs-1 text-dark text-decoration-none p-3" href="../index.html">Sports Photo</a></h1>
+      <h1><a class="fs-1 text-dark text-decoration-none p-2" href="../index.html">Sports Photo</a></h1>
     </div>
     <nav>
     <ul id="nav" class="sports-list overflow-x-hidden d-flex list-unstyled pt-2">
@@ -36,7 +36,7 @@
       <li class="pe-2"><a href="prof.html" class="fs-4 text-dark text-decoration-none">profile</a></li>
     </ul>
   </nav>
-    <div class="burger p-4">
+    <div class="burger pt-2 pb-1 ps-2 pe-2">
       <div class="line1 fw-normal mb-2"></div>
       <div class="line2 fw-normal mb-2"></div>
       <div class="line3 fw-normal mb-2"></div>
