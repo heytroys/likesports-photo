@@ -1,15 +1,18 @@
 'use-strict';
 
 document.addEventListener('DOMContentLoaded', function() {
-    document.querySelector('body').addEventListener('touchmove', function(e) {
+  document.addEventListener('touchmove', function(e) {
+    if (Math.abs(e.deltaX) > Math.abs(e.deltaY)) {
       e.preventDefault();
-    }, { passive: false });
-  
-    document.querySelector('body').addEventListener('wheel', function(e) {
-      if (e.deltaX !== 0) {
-        e.preventDefault();
-      }
-    });
+    }
+  }, { passive: false });
+
+  document.addEventListener('wheel', function(e) {
+    if (Math.abs(e.deltaX) > Math.abs(e.deltaY)) {
+      e.preventDefault();
+    }
   });
+});
+
   
 
