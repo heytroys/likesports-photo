@@ -38,6 +38,10 @@ body {
 /* swiper slider
 ========================================= */
 
+.main-wrapper {
+    margin-top: 150px;
+}
+
 .swiper .swiper-wrapper .swiper-slide {
     opacity: .3;
     transform: scale(.8);
