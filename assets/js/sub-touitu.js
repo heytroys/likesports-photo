@@ -12,12 +12,15 @@
     <li class="pe-2"><a href="../index.html" class="fs-4 text-dark text-decoration-none">top</a></li>
       <li class="pe-3"><a href="#" class="sub-text fs-4 text-dark text-decoration-none">baseball</a>
       <ul class="list-unstyled">
-        <li class="my-4"><a class="fs-6 text-dark text-decoration-none" href="baseball-tiger24-1-op.html">阪神タイガース
-          <br>1軍オープン戦<br>
+        <li class="my-4"><a class="fs-6 text-dark text-decoration-none" href="baseball-tiger24-1-op.html">阪神1軍
+          <br>オープン戦<br>
           2024</a></li>
-        <li class="my-4"><a class="fs-6 text-dark text-decoration-none" href="th-other-baseball24-1-op.html">阪神以外
-          <br>1軍オープン戦<br>
+        <li class="my-4"><a class="fs-6 text-dark text-decoration-none" href="th-other-baseball24-1-op.html">阪神以外1軍
+          <br>オープン戦<br>
           2024</a></li>
+          <li class="my-4"><a class="fs-5 text-dark text-decoration-none" href="events/baseball-tiger24-2-uwekou.html">阪神2軍
+          <br>ウエスタン公式戦
+          <br>2024</a></li>
         </ul>
       </li>
       <li class="pe-3"><a href="#" class="sub-text fs-4 text-dark text-decoration-none">volleyball</a>
