@@ -18,7 +18,7 @@
         <li class="my-4"><a class="fs-6 text-dark text-decoration-none" href="events/th-other-baseball24-1-op.html">阪神以外1軍
           <br>オープン戦
           <br>2024</a></li>
-          <li class="my-4"><a class="fs-5 text-dark text-decoration-none" href="events/baseball-tiger24-2-uwekou.html">阪神2軍
+          <li class="my-4"><a class="fs-6 text-dark text-decoration-none" href="events/baseball-tiger24-2-uwekou.html">阪神2軍
           <br>ウエスタン公式戦
           <br>2024</a></li>
         </ul>
