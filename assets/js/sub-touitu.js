@@ -25,7 +25,7 @@
       </li>
       <li class="pe-3"><a href="#" class="sub-text fs-4 text-dark text-decoration-none">volleyball</a>
         <ul class="list-unstyled">
-          <li class="my-4"><a class="sub-text fs-6 text-dark text-decoration-none" href="jtmave23.html">JTマーヴェラス
+          <li class="my-4"><a class="sub-text fs-6 text-dark text-decoration-none" href="vleague-wo23-24.html">V.LEAGUE WOMEN1
             <br>2023~24</a></li>
           </ul>
         </li>
