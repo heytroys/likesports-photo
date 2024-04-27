@@ -20,7 +20,7 @@
       </li>
       <li class="pe-3"><a class="sub-text fs-3 text-dark text-decoration-none">volleyball</a>
         <ul class="list-unstyled">
-          <li class="my-4"><a class="sub-text fs-6 text-dark text-decoration-none" href="events/vleague-wo1-23-24.html">V.LEAGUE WOMEN1
+          <li class="my-4"><a class="sub-text fs-6 text-dark text-decoration-none" href="events/vleague-wo1-23-24.html">V1リーグ女子
             <br>2023~24</a></li>
           </ul>
         </li>
