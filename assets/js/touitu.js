@@ -3,7 +3,7 @@
     const $hdr_header = document.getElementById('hdr_header');
     $hdr_header.insertAdjacentHTML('afterbegin' , `
     <header id="header" class="p-3 mb-4">
-    <div class="header-container d-flex justify-content-between align-items-center">
+    <div class="header-container d-flex justify-content-between">
       <div class="page-title">
       <h1><a class="fs-1 text-dark text-decoration-none p-2" href="index.html">Sports Photo</a></h1>
     </div>
