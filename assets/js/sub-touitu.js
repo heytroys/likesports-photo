@@ -9,8 +9,8 @@
     </div>
     <nav>
     <ul id="nav" class="sports-list overflow-x-hidden d-flex list-unstyled pt-2">
-    <li class="pe-2"><a href="../index.html" class="fs-4 text-dark text-decoration-none">top</a></li>
-      <li class="pe-3"><a class="sub-text fs-4 text-dark text-decoration-none">baseball</a>
+    <li class="pe-2"><a href="../index.html" class="fs-3 text-dark text-decoration-none">top</a></li>
+      <li class="pe-3"><a class="sub-text fs-3 text-dark text-decoration-none">baseball</a>
       <ul class="list-unstyled">
         <li class="my-4"><a class="fs-6 text-dark text-decoration-none" href="p-baseball24-1-op.html">プロ野球1軍
           <br>op戦2024</a></li>
@@ -18,13 +18,13 @@
           <br>公式戦2024</a></li>
         </ul>
       </li>
-      <li class="pe-3"><a class="sub-text fs-4 text-dark text-decoration-none">volleyball</a>
+      <li class="pe-3"><a class="sub-text fs-3 text-dark text-decoration-none">volleyball</a>
         <ul class="list-unstyled">
           <li class="my-4"><a class="sub-text fs-6 text-dark text-decoration-none" href="vleague-wo1-23-24.html">V1リーグ女子
             <br>2023~24</a></li>
           </ul>
         </li>
-      <li class="pe-2"><a href="prof.html" class="fs-4 text-dark text-decoration-none">profile</a></li>
+      <li class="pe-2"><a href="prof.html" class="fs-3 text-dark text-decoration-none">profile</a></li>
     </ul>
   </nav>
     <div class="burger pt-2 pb-1 ps-2 pe-2">
