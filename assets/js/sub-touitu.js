@@ -12,6 +12,8 @@
     <li class="pe-2"><a href="../index.html" class="fs-3 text-dark text-decoration-none">top</a></li>
       <li class="pe-3"><a class="sub-text fs-3 text-dark text-decoration-none">baseball</a>
       <ul class="list-unstyled">
+      <li class="my-4"><a class="fs-6 text-dark text-decoration-none" href="p-baseball24-1.html">プロ野球1軍
+          <br>公式戦2024</a></li>
         <li class="my-4"><a class="fs-6 text-dark text-decoration-none" href="p-baseball24-1-op.html">プロ野球1軍
           <br>op戦2024</a></li>
           <li class="my-4"><a class="fs-6 text-dark text-decoration-none" href="p-baseball24-2.html">プロ野球2軍
