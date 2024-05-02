@@ -24,6 +24,8 @@
         <ul class="list-unstyled">
           <li class="my-4"><a class="sub-text fs-6 text-dark text-decoration-none" href="events/vleague-wo1-23-24.html">V1リーグ女子
             <br>2023~24</a></li>
+            <li class="my-4"><a class="sub-text fs-6 text-dark text-decoration-none" href="events/kurowashiki-vol-wo-24.html">黒鷲旗女子
+            <br>2024</a></li>
           </ul>
         </li>
       <li class="pe-2"><a href="events/prof.html" class="fs-3 text-dark text-decoration-none">profile</a></li>
