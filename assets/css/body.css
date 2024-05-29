@@ -89,21 +89,6 @@ body {
     opacity: 1;
 }
 
-.before-content {
-    opacity: 0;
-    position: relative;
-    left: 70px;
-    top: 25px;
-}
-
-.after-content {
-    position: relative;
-    left: 0;
-    top: 0;
-    opacity: 1;
-    transition: all 2.5s;
-}
-
 
 /* about
 ========================================= */
