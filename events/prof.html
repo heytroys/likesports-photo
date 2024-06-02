@@ -29,7 +29,7 @@
           <div class="profile mt-3 mb-5 m-auto text-center">
         <h2 class="fs-2 text-center my-4">プロフィール</h2>
         <div class="p-3 text-center my-5">
-          <img class="mw-100 rounded" src="https://github.com/heytroys/likesports-photo-ys/blob/main/assets/images/event-images/prof/profile.jpg?raw=true" alt="プロフィール">
+          <img class="lazy mw-100 rounded" src="https://github.com/heytroys/take-sportsphoto/blob/main/assets/images/event-images/prof/profile.jpg?raw=true" data-original="https://github.com/heytroys/take-sportsphoto/blob/main/assets/images/event-images/prof/profile.jpg?raw=true"  alt="プロフィール">
         </div>
         <ul class="introd-list list-unstyled">
           <li class="fs-3 mb-3"><span class="border-bottom border-2 border-primary pb-1">出身</span></li>
@@ -55,9 +55,15 @@
       
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
         <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+       <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-rc.2/lazyload.min.js"></script>
         <script src="../assets/js/sub-touitu.js"></script>
         <script src="../assets/js/menu.js"></script>
          <script src="../assets/js/click-btn.js"></script>
+      <script>
+        $(function(){
+            $('img.lazy').lazyload();
+        });
+    </script>
         </body>
         </html>
         
