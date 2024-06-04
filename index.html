@@ -149,5 +149,19 @@
             $('img.lazy').lazyload();
         });
     </script>
+    <script>
+    var swiper = new Swiper('.swiper-container', {
+        // ここにSwiperのオプションを追加
+        on: {
+            slideChangeTransitionEnd: function () {
+                // スライドが変更された後の処理
+                var activeIndex = this.activeIndex; // 現在のスライドのインデックスを取得
+                var imgLink = document.querySelector('.swiper-slide:nth-child(' + (activeIndex + 1) + ') a'); // 現在のスライドの画像リンクを取得
+                imgLink.click(); // 画像リンクをクリックしてポップアップを表示
+            }
+        }
+    });
+</script>
+
 </body>
 </html>
