@@ -93,7 +93,23 @@ body {
 /* about
 ========================================= */
 
+.fadeIn {
+    transition: 1.5s;
+    opacity: 0;
+}
 
+.fadeIn.animated {
+    opacity: 1;
+}
+
+.fadeIn2 {
+    transition: 1.5s;
+    opacity: 0;
+}
+
+.fadeIn2.animated {
+    opacity: 1;
+}
 
 
 /* footer 
