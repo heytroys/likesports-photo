@@ -63,7 +63,7 @@ body {
 ========================================= */
 
 #main-bottom .img {
-    opacity: 0;
+    opacity: 1;
 }
 
 #main-bottom .img a img {
@@ -80,9 +80,7 @@ body {
     box-shadow: none;
 }
 
-#main-bottom .img-after {
-    opacity: 1;
-}
+
 
 
 /* about
