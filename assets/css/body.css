@@ -90,11 +90,11 @@ body {
 
 .fadeIn {
     transition: 1.5s;
-    opacity: 0;
+    display: none;
 }
 
 .fadeIn.animated {
-    opacity: 1;
+    display: block;
 }
 
 .fadeIn2 {
